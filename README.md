@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./assets/header2.svg" alt="Header" width="100%" />
+  <img src="./assets/header.svg" alt="Header" width="100%" />
 </p>
-
-<h1 align="center">Hi 👋, I'm Susanne Renken</h1>
 
 <h3 align="left">A passionate frontend developer from Germany</h3>
 
