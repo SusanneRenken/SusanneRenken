@@ -94,6 +94,8 @@ I am motivated by transforming complex requirements into clear, maintainable sys
       <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/javascript.svg" width="40"/><br/>
       <sub>JavaScript</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="110">
       <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/python.svg" width="40"/><br/>
       <sub>Python</sub>
