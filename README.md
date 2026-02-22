@@ -8,6 +8,7 @@ I build software with the goal of turning ideas into reliable and sustainable so
 For me, technology is not just a tool, but a structured process: analyze, design, implement, improve.  
 I am motivated by transforming complex requirements into clear, maintainable systems.
 
+<br>
 
 ## Projects
 
@@ -69,60 +70,105 @@ I am motivated by transforming complex requirements into clear, maintainable sys
 </p>
 
 
-## Languages &amp; Tools
+<br>
 
-Core Technologies:
-Angular · TypeScript · Django · PostgreSQL · Docker
+## Languages & Tools
 
-Backend & Infrastructure:
-DRF · Redis · REST APIs · Linux
+### Core Technologies
 
-Workflow:
-Git · CI/CD · Docker Compose
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/angular.svg" width="40"/><br/>
+      <sub>Angular</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/rxjs.svg" width="40"/><br/>
+      <sub>RxJS</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/typescript.svg" width="40"/><br/>
+      <sub>TypeScript</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/javascript.svg" width="40"/><br/>
+      <sub>JavaScript</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/python.svg" width="40"/><br/>
+      <sub>Python</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/django.svg" width="40"/><br/>
+      <sub>Django</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/drf.svg" width="40"/><br/>
+      <sub>DRF</sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/postgresql.svg" width="40"/><br/>
+      <sub>PostgreSQL</sub>
+    </td>
+  </tr>
+</table>
 
-<!-- <blockquote>
+<br/>
 
-  <h4 align="left">📦 Front-End</h4>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
-  </div>
+### Backend & Infrastructure
 
-  <h4 align="left">🗄️ Back-End</h4>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase logo" />
-  </div>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/docker.svg" width="40"/><br/>
+      <sub>Docker</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/redis.svg" width="40"/><br/>
+      <sub>Redis</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/api.svg" width="40"/><br/>
+      <sub>REST API</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/linux.svg" width="40"/><br/>
+      <sub>Linux</sub>
+    </td>
+  </tr>
+</table>
 
-  <h4 align="left">🔧 Other Helpful Tools</h4>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="Trello logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="FileZilla logo" />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
-  </div>
+<br/>
 
-</blockquote> -->
+### Workflow & Foundations
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/git.svg" width="40"/><br/>
+      <sub>Git</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/html.svg" width="40"/><br/>
+      <sub>HTML</sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/SusanneRenken/portfolio/main/src/assets/img/css.svg" width="40"/><br/>
+      <sub>CSS</sub>
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
+## Contact
+
+<p>
+  Portfolio: <a href="https://www.susanne-renken.com">susanne-renken.com</a><br/>
+  Email: <a href="mailto:contact@susanne-renken.com">contact@susanne-renken.com</a><br/>
+  LinkedIn: <a href="https://www.linkedin.com/in/susanne-renken-11830b346">linkedin.com/in/susanne-renken-11830b346</a>
+</p>
+
 
 
