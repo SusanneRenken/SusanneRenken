@@ -2,24 +2,85 @@
   <img src="./assets/header-fullstack.svg" alt="Header" width="100%" />
 </p>
 
-<h3 align="left">A passionate frontend developer from Germany</h3>
+## About
 
-<blockquote>
+I build software with the goal of turning ideas into reliable and sustainable solutions.  
+For me, technology is not just a tool, but a structured process: analyze, design, implement, improve.  
+I am motivated by transforming complex requirements into clear, maintainable systems.
 
-- 🔭 I’m currently working on **KanMind**
-- 🌱 I’m currently learning **Django**
-- 👯 I’m looking to collaborate on **exciting projects**
-- 🤝 Always open for **feedback**
-- 👩🏼‍💻 All of my projects are available at [susanne-renken.com](https://www.susanne-renken.com/)
-- 📫 How to reach me **contact@susanne-renken.com**
-- 💼 Connect with me on **LinkedIn** [linkedin.com/in/susanne-renken-11830b346](https://www.linkedin.com/in/susanne-renken-11830b346)
-- 💬 Feel free to ask me **anything**
 
-</blockquote>
+## Projects
 
-<h3 align="left">🛠 Languages &amp; Tools</h3>
+### Featured
 
-<blockquote>
+<ul>
+  <li>
+    <strong>Coderr</strong> — Freelancer marketplace backend (REST API, auth, roles, validation). 
+    <em>(Django · DRF · PostgreSQL · Docker · JWT)</em>
+    <a href="https://github.com/SusanneRenken/coderr/">Repo</a> ·
+    <a href="https://coderr.susanne-renken.com">Live</a>
+  </li>
+  <li>
+    <strong>KanMind</strong> — Kanban logic, clean data models, stable REST API. 
+    <em>(Django · DRF · PostgreSQL · Docker)</em>
+    <a href="https://github.com/SusanneRenken/kanmind/">Repo</a> ·
+    <a href="https://kanmind.susanne-renken.com">Live</a>
+  </li>
+  <li>
+    <strong>DA Bubble</strong> — Team-built real-time chat with modular Angular architecture. 
+    <em>(Angular · TypeScript · Firebase)</em>
+    <a href="https://github.com/SusanneRenken/DA-Bubble/">Repo</a> ·
+    <a href="https://dabubble.susanne-renken.com/access">Live</a>
+  </li>
+  <li>
+    <strong>Join</strong> — Kanban task manager with drag-and-drop and dynamic UI updates. 
+    <em>(JavaScript · HTML · CSS · Firebase)</em>
+    <a href="https://github.com/SusanneRenken/join/">Repo</a> ·
+    <a href="https://join.susanne-renken.com">Live</a>
+  </li>
+</ul>
+
+### Additional Projects
+
+<details>
+  <summary><strong>Show projects</strong></summary>
+  <ul>
+    <li>
+      <strong>Quizly</strong> — AI-powered quiz generation from YouTube videos. 
+      <em>(DRF · FFmpeg · Whisper · Gemini API)</em>
+      <a href="https://github.com/SusanneRenken/quizly/">Repo</a>
+    </li>
+    <li>
+      <strong>Videoflix</strong> — Streaming backend with transcoding pipeline and HLS delivery. 
+      <em>(Redis · django-rq · FFmpeg · HLS · Docker)</em>
+      <a href="https://github.com/SusanneRenken/videoflix/">Repo</a>
+    </li>
+    <li>
+      <strong>Sharkie</strong> — 2D browser game with Canvas, collisions and state management. 
+      <em>(JavaScript · HTML · CSS · Firebase)</em>
+      <a href="https://github.com/SusanneRenken/sharkie/">Repo</a> ·
+      <a href="https://sharkie.susanne-renken.com">Live</a>
+    </li>
+  </ul>
+</details>
+
+<p>
+  More details and demos: <a href="https://www.susanne-renken.com/">susanne-renken.com</a>
+</p>
+
+
+## Languages &amp; Tools
+
+Core Technologies:
+Angular · TypeScript · Django · PostgreSQL · Docker
+
+Backend & Infrastructure:
+DRF · Redis · REST APIs · Linux
+
+Workflow:
+Git · CI/CD · Docker Compose
+
+<!-- <blockquote>
 
   <h4 align="left">📦 Front-End</h4>
   <div align="left">
@@ -62,12 +123,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo" />
   </div>
 
-</blockquote>
+</blockquote> -->
 
-<h3 align="left">📈 Some statistics</h3>
-<blockquote>
-  <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=SusanneRenken&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SusanneRenken&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  </div>
-</blockquote>
+
