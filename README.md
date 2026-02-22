@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" alt="Header" width="100%" />
+  <img src="./assets/header-fullstack.svg" alt="Header" width="100%" />
 </p>
 
 <h3 align="left">A passionate frontend developer from Germany</h3>
