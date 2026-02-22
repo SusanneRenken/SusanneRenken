@@ -1,0 +1,92 @@
+<svg
+  width="854"
+  height="150"
+  xmlns="http://www.w3.org/2000/svg"
+  style="z-index:1;position:relative"
+  viewBox="0 0 854 150"
+>
+  <style>
+    .title {
+      font-size: 48px;
+      font-weight: 700;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+        sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    }
+    .subtitle {
+      font-size: 22px;
+      font-weight: 600;
+      font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+        sans-serif, Apple Color Emoji, Segoe UI Emoji;
+    }
+
+    .title,
+    .subtitle {
+      animation: fadeIn 1.2s ease-in-out forwards;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+  </style>
+
+  <g transform="translate(427, 75) scale(1, 1) translate(-427, -75)">
+    <path d="" fill="#4e9cff" opacity="0.4">
+      <animate
+        attributeName="d"
+        dur="20s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcMode="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="0s"
+        values="
+        M0 0L 0 110Q 213.5 140 427 120T 854 135L 854 0 Z;
+        M0 0L 0 120Q 213.5 150 427 130T 854 120L 854 0 Z;
+        M0 0L 0 130Q 213.5 125 427 145T 854 115L 854 0 Z;
+        M0 0L 0 110Q 213.5 140 427 120T 854 135L 854 0 Z">
+      </animate>
+    </path>
+
+    <path d="" fill="#4e9cff" opacity="0.4">
+      <animate
+        attributeName="d"
+        dur="20s"
+        repeatCount="indefinite"
+        keyTimes="0;0.333;0.667;1"
+        calcMode="spline"
+        keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
+        begin="-10s"
+        values="
+        M0 0L 0 120Q 213.5 155 427 140T 854 150L 854 0 Z;
+        M0 0L 0 130Q 213.5 120 427 120T 854 135L 854 0 Z;
+        M0 0L 0 125Q 213.5 130 427 150T 854 160L 854 0 Z;
+        M0 0L 0 120Q 213.5 155 427 140T 854 150L 854 0 Z">
+      </animate>
+    </path>
+  </g>
+
+  <!-- Main Title -->
+  <text
+    text-anchor="middle"
+    alignment-baseline="middle"
+    x="50%"
+    y="42%"
+    class="title"
+    style="fill:#0D1117;"
+  >
+    Full-Stack Developer
+  </text>
+
+  <!-- Tech Stack -->
+  <text
+    text-anchor="middle"
+    alignment-baseline="middle"
+    x="50%"
+    y="65%"
+    class="subtitle"
+    style="fill:#0D1117;"
+  >
+    Angular · Django · PostgreSQL · Docker
+  </text>
+</svg>
