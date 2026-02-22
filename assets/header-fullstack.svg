@@ -31,7 +31,7 @@
   </style>
 
   <g transform="translate(427, 75) scale(1, 1) translate(-427, -75)">
-    <path d="" fill="#89bcd9" opacity="1">
+    <path d="" fill="#89bcd9">
       <animate
         attributeName="d"
         dur="20s"
